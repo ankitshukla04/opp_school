@@ -132,7 +132,6 @@ header {
 .video_div {
 	display: inline-block;
 	margin: 15px;
-	/*box-shadow: 2px 5px 10px rgba(192,192,192,0.5);*/
 }
 .backtotop_div {
 	background-color: rgba(35,47,62,1);
