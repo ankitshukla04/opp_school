@@ -100,7 +100,29 @@ header {
 	max-height: 50vw; 
 }
 .about_div {
-	margin: 10px 0 0 0;
+	margin: 10px auto 0 auto;
+	color: #fff;
+	width: 80%;
+	border: 30px solid #C17D11;
+	border-radius: 10px;
+	background: rgba(1,59,9,1);
+	background: -moz-linear-gradient(-45deg, rgba(1,59,9,1) 0%, rgba(1,59,9,1) 60%, rgba(10,145,60,1) 97%, rgba(195,219,212,1) 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(1,59,9,1)), color-stop(60%, rgba(1,59,9,1)), color-stop(97%, rgba(10,145,60,1)), color-stop(100%, rgba(195,219,212,1)));
+	background: -webkit-linear-gradient(-45deg, rgba(1,59,9,1) 0%, rgba(1,59,9,1) 60%, rgba(10,145,60,1) 97%, rgba(195,219,212,1) 100%);
+	background: linear-gradient(135deg, rgba(1,59,9,1) 0%, rgba(1,59,9,1) 60%, rgba(10,145,60,1) 97%, rgba(195,219,212,1) 100%);
+}
+.about_inner_div {
+	border: 3px solid #622F24;
+	padding: 20px;
+	font-size: 1em;
+	font-family: 'Capriola', sans-serif;
+	text-align: left;
+}
+.board_bottom_div {
+	border-top: 3px solid white;
+	border-bottom: 10px solid #C17D11;
+	width: 80%;
+	margin: auto;
 }
 .abt_text {
 	text-align: justify;
