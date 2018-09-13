@@ -131,7 +131,6 @@ header {
 .card_div {
 	display: inline-block;
 	margin: 20px 20px 20px 0;
-	box-shadow: 2px 2px 10px rgba(192,192,192,0.5);
 }
 .card {
 	box-shadow: 2px 5px 10px rgba(192,192,192,0.5);
@@ -142,15 +141,6 @@ header {
 	width: 80%;
 	padding-top: 1vw;
 }
-/*.top_btn {
-	position: absolute;
-	top: 20px;
-	right: 20px;
-}
-.top_img {
-	height: 70px;
-	width: 70px;
-}*/
 .video_div {
 	display: inline-block;
 	margin: 15px;
