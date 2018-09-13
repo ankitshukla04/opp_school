@@ -203,3 +203,16 @@ header {
 .white_links {
 	color: #fff;	
 }
+.donate_div {
+	width: 100%;
+	height: 40vw;
+	font-family: 'Merriweather',serif; 
+}
+.donate_img {
+	width: 100%;
+	height: 40vw;
+}
+.donate_content_div {
+	width: 80%
+
+}
