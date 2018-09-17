@@ -10,7 +10,7 @@
 }
 header {
 	border-top: 4px solid var(--main-color);
-	background-color: rgba(255,255,255,1);
+	background-color: #fff;
 }
 .logo_img {
 		border-radius: 50%;
