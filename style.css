@@ -141,6 +141,11 @@ header {
 .card {
 	box-shadow: 2px 5px 10px rgba(192,192,192,0.5);
 }
+.card_teacher_div:hover {
+	transform: scale(1.3);
+	transition: all 1s ease;
+	z-index: 1;
+}
 .foot_div_2 {
 	margin: 30px auto;
 	border-top: 1px solid rgba(192,192,192,0.5);
@@ -217,6 +222,14 @@ table {
     width: 50%;
 }
 table tr,td {
-	 border: 1px solid #ddd;
+	border: 1px solid #ddd;
     padding: 8px;
+}
+.students_table {
+	border-collapse: collapse;
+	width:100%;
+}
+.students_table {
+	border: 1px solid #ddd;
+	padding: 8px;
 }
